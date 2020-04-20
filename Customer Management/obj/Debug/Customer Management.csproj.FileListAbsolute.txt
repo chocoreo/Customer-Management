@@ -1,0 +1,30 @@
+C:\Users\BogeL\source\repos\Customer Management\Customer Management\bin\Debug\Customer Management.exe.config
+C:\Users\BogeL\source\repos\Customer Management\Customer Management\bin\Debug\Customer Management.exe
+C:\Users\BogeL\source\repos\Customer Management\Customer Management\bin\Debug\Customer Management.pdb
+C:\Users\BogeL\source\repos\Customer Management\Customer Management\obj\Debug\Customer Management.csprojAssemblyReference.cache
+C:\Users\BogeL\source\repos\Customer Management\Customer Management\obj\Debug\Customer_Management.Form1.resources
+C:\Users\BogeL\source\repos\Customer Management\Customer Management\obj\Debug\Customer_Management.Properties.Resources.resources
+C:\Users\BogeL\source\repos\Customer Management\Customer Management\obj\Debug\Customer Management.csproj.GenerateResource.cache
+C:\Users\BogeL\source\repos\Customer Management\Customer Management\obj\Debug\Customer Management.csproj.CoreCompileInputs.cache
+C:\Users\BogeL\source\repos\Customer Management\Customer Management\obj\Debug\Customer Management.exe
+C:\Users\BogeL\source\repos\Customer Management\Customer Management\obj\Debug\Customer Management.pdb
+D:\Customer Management\Customer Management\bin\Debug\Customer Management.exe.config
+D:\Customer Management\Customer Management\bin\Debug\Customer Management.exe
+D:\Customer Management\Customer Management\bin\Debug\Customer Management.pdb
+D:\Customer Management\Customer Management\obj\Debug\Customer Management.csprojAssemblyReference.cache
+D:\Customer Management\Customer Management\obj\Debug\Customer_Management.Form1.resources
+D:\Customer Management\Customer Management\obj\Debug\Customer_Management.Properties.Resources.resources
+D:\Customer Management\Customer Management\obj\Debug\Customer Management.csproj.GenerateResource.cache
+D:\Customer Management\Customer Management\obj\Debug\Customer Management.csproj.CoreCompileInputs.cache
+D:\Customer Management\Customer Management\obj\Debug\Customer Management.exe
+D:\Customer Management\Customer Management\obj\Debug\Customer Management.pdb
+D:\TI41\Pemograman Visual\Customer Management\Customer Management\bin\Debug\Customer Management.exe.config
+D:\TI41\Pemograman Visual\Customer Management\Customer Management\bin\Debug\Customer Management.exe
+D:\TI41\Pemograman Visual\Customer Management\Customer Management\bin\Debug\Customer Management.pdb
+D:\TI41\Pemograman Visual\Customer Management\Customer Management\obj\Debug\Customer Management.csprojAssemblyReference.cache
+D:\TI41\Pemograman Visual\Customer Management\Customer Management\obj\Debug\Customer_Management.Form1.resources
+D:\TI41\Pemograman Visual\Customer Management\Customer Management\obj\Debug\Customer_Management.Properties.Resources.resources
+D:\TI41\Pemograman Visual\Customer Management\Customer Management\obj\Debug\Customer Management.csproj.GenerateResource.cache
+D:\TI41\Pemograman Visual\Customer Management\Customer Management\obj\Debug\Customer Management.csproj.CoreCompileInputs.cache
+D:\TI41\Pemograman Visual\Customer Management\Customer Management\obj\Debug\Customer Management.exe
+D:\TI41\Pemograman Visual\Customer Management\Customer Management\obj\Debug\Customer Management.pdb
